@@ -21,6 +21,7 @@ with the phrase "Lottery is a taxation upon mathematical ignorance".
 
 ![Application logo](/lottodds_banner.png)
 
+
 Features
 -------------------
 * The application presents a GUI so users can easily calculate the odds of winning lottery grand prizes.
