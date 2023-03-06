@@ -43,6 +43,9 @@ Features
 
 Combinatorics
 -------------------
+<p align="center">
+  ![Combinations formula](/cformula.png)
+</p>
 The "Combination formula" or "Combinations formula" is used to calculate the number of ways to choose r items from a set
 of n items, where the order of the items does not matter. In the context of lotteries, n represents the total number of balls
 in the lottery pool, and r represents the number of balls drawn to determine the winning combination. The formula calculates
