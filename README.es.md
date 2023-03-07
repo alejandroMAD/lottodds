@@ -68,61 +68,61 @@ Resultados de las pruebas propuestas para LottOdds con diferentes configuracione
     <td align="center"><b>Probabilidad</b></td>
   </tr>
   <tr>
-    <td>EE. UU. Mega Millions</td>
+    <td>:us: EE. UU. Mega Millions</td>
     <td>Bolas normales: 5; Número máximo en las bolas normales: 70;
         <br>Bolas extra: 1; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 25</td>
     <td>1 entre 302.575.350</td>
   </tr>
   <tr>
-    <td>EE. UU. Powerball</td>
+    <td>:us: EE. UU. Powerball</td>
     <td>Bolas normales: 5; Número máximo en las bolas normales: 69;
         <br>Bolas extra: 1; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 26</td>
     <td>1 entre 292.201.338</td>
   </tr>
   <tr>
-    <td>Europa EuroMillones</td>
+    <td>:eu: Europa EuroMillones</td>
     <td>Bolas normales: 5; Número máximo en las bolas normales: 50;
         <br>Bolas extra: 2; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 12</td>
     <td>1 entre 139.838.160</td>
   </tr>
   <tr>
-    <td>España La Primitiva</td>
+    <td>:es: España La Primitiva</td>
     <td>Bolas normales: 6; Número máximo en las bolas normales: 49;
         <br>Bolas extra: 1; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 10</td>
     <td>1 entre 139.838.160</td>
   </tr>
   <tr>
-    <td>España El Gordo</td>
+    <td>:es: España El Gordo</td>
     <td>Bolas normales: 5; Número máximo en las bolas normales: 54;
         <br>Bolas extra: 1; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 10</td>
     <td>1 entre 31.625.100</td>
   </tr>
   <tr>
-    <td>España Bonoloto</td>
+    <td>:es: España Bonoloto</td>
     <td>Bolas normales: 6; Número máximo en las bolas normales: 49;
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 13.983.816</td>
   </tr>
   <tr>
-    <td>España Lotería de Navidad</td>
+    <td>:es: España Lotería de Navidad</td>
     <td>Bolas normales: 1; Número máximo en las bolas normales: 100,000;
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 100.000</td>
   </tr>
   <tr>
-    <td>Australia Powerball</td>
+    <td>:australia: Australia Powerball</td>
     <td>Bolas normales: 7; Número máximo en las bolas normales: 35;
         <br>Bolas extra: 1; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 20</td>
     <td>1 entre 134.490.400</td>
   </tr>
   <tr>
-    <td>Italia SuperEnalotto</td>
+    <td>:it: Italia SuperEnalotto</td>
     <td>Bolas normales: 6; Número máximo en las bolas normales: 90;
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 622.614.630</td>
   </tr>
   <tr>
-    <td>Japón Takarakuji Loto 7</td>
+    <td>:jp: Japón Takarakuji Loto 7</td>
     <td>Bolas normales: 7; Número máximo en las bolas normales: 37;
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 10.295.472</td>
