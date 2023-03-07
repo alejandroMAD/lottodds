@@ -70,61 +70,73 @@ Results of testing LottOdds application with different configurations inputs fro
     <td align="center"><b>Grand prize odds</b></td>
   </tr>
   <tr>
-    <td>U.S. Mega Millions</td>
+    <td>:us: U.S. Mega Millions</td>
     <td>Regular draws: 5; Regular numbers: 70;
         <br>Bonus draws: 1; Bonus numbers: 25</td>
     <td>1 in 302,575,350</td>
   </tr>
   <tr>
-    <td>U.S. Powerball</td>
+    <td>:us: U.S. Powerball</td>
     <td>Regular draws: 5; Regular numbers: 69;
         <br>Bonus draws: 1; Bonus numbers: 26</td>
     <td>1 in 292,201,338</td>
   </tr>
   <tr>
-    <td>Europe EuroMillions</td>
+    <td>:eu: Europe EuroMillions</td>
     <td>Regular draws: 5; Regular numbers: 50;
         <br>Bonus draws: 2; Bonus numbers: 12</td>
     <td>1 in 139,838,160</td>
   </tr>
   <tr>
-    <td>Spain La Primitiva</td>
+    <td>:es: Spain La Primitiva</td>
     <td>Regular draws: 6; Regular numbers: 49;
         <br>Bonus draws: 1; Bonus numbers: 10</td>
     <td>1 in 139,838,160</td>
   </tr>
   <tr>
-    <td>Spain El Gordo</td>
+    <td>:es: Spain El Gordo</td>
     <td>Regular draws: 5; Regular numbers: 54;
         <br>Bonus draws: 1; Bonus numbers: 10</td>
     <td>1 in 31,625,100</td>
   </tr>
   <tr>
-    <td>Spain Bonoloto</td>
+    <td>:es: Spain Bonoloto</td>
     <td>Regular draws: 6; Regular numbers: 49;
         <br>Bonus draws: 0; Bonus numbers: 0</td>
     <td>1 in 13,983,816</td>
   </tr>
   <tr>
-    <td>Spain Christmas Lottery</td>
+    <td>:es: Spain Christmas Lottery</td>
     <td>Regular draws: 1; Regular numbers: 100,000;
         <br>Bonus draws: 0; Bonus numbers: 0</td>
     <td>1 in 100,000</td>
   </tr>
   <tr>
-    <td>Australia Powerball</td>
+    <td>:australia: Australia Powerball</td>
     <td>Regular draws: 7; Regular numbers: 35;
         <br>Bonus draws: 1; Bonus numbers: 20</td>
     <td>1 in 134,490,400</td>
   </tr>
   <tr>
-    <td>Italia SuperEnalotto</td>
+    <td>:it: Italia SuperEnalotto</td>
     <td>Regular draws: 6; Regular numbers: 90;
         <br>Bonus draws: 0; Bonus numbers: 0</td>
     <td>1 in 622,614,630</td>
   </tr>
   <tr>
-    <td>Japan Takarakuji Loto 7</td>
+    <td>:canada: Canada Lotto 6/49</td>
+    <td>Regular draws: 6; Regular numbers: 49;
+        <br>Bonus draws: 0; Bonus numbers: 0</td>
+    <td>1 in 13,983,816</td>
+  </tr>
+  <tr>
+    <td>:brazil: Brazil Mega-Sena</td>
+    <td>Regular draws: 6; Regular numbers: 60;
+        <br>Bonus draws: 0; Bonus numbers: 0</td>
+    <td>1 in 50,063,860</td>
+  </tr>
+  <tr>
+    <td>:jp: Japan Takarakuji Loto 7</td>
     <td>Regular draws: 7; Regular numbers: 37;
         <br>Bonus draws: 0; Bonus numbers: 0</td>
     <td>1 in 10,295,472</td>
