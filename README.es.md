@@ -7,7 +7,7 @@ LottOdds
 ![Application logo](/lottodds_banner.png)
 
 
-User interface
+Interfaz de usuario
 ----------
 ![Application screenshot](/screenshot.png)
 
