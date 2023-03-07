@@ -121,6 +121,17 @@ Resultados de las pruebas propuestas para LottOdds con diferentes configuracione
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 622.614.630</td>
   </tr>
+    <td>:canada: Canadá Lotto 6/49</td>
+    <td>Bolas normales: 6; Número máximo en las bolas normales: 49;
+        <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
+    <td>1 entre 13.983.816</td>
+  </tr>
+  <tr>
+    <td>:brazil: Brasil Mega-Sena</td>
+    <td>Bolas normales: 6; Número máximo en las bolas normales: 60;
+        <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
+    <td>1 entre 50.063.860</td>
+  </tr>
   <tr>
     <td>:jp: Japón Takarakuji Loto 7</td>
     <td>Bolas normales: 7; Número máximo en las bolas normales: 37;
