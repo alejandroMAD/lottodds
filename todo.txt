@@ -1,0 +1,2 @@
+# Crear iconos de banderas ES EN en la parte superior que permitan cambiar idioma de textos
+# en la interfaz de manera centralizada, pasando argumentos a las clases afectadas.
