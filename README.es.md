@@ -80,31 +80,31 @@ Resultados de las pruebas propuestas para LottOdds con diferentes configuracione
     <td>1 entre 292.201.338</td>
   </tr>
   <tr>
-    <td>Europe EuroMillions</td>
+    <td>Europa EuroMillones</td>
     <td>Bolas normales: 5; Número máximo en las bolas normales: 50;
         <br>Bolas extra: 2; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 12</td>
     <td>1 entre 139.838.160</td>
   </tr>
   <tr>
-    <td>Spain La Primitiva</td>
+    <td>España La Primitiva</td>
     <td>Bolas normales: 6; Número máximo en las bolas normales: 49;
         <br>Bolas extra: 1; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 10</td>
     <td>1 entre 139.838.160</td>
   </tr>
   <tr>
-    <td>Spain El Gordo</td>
+    <td>España El Gordo</td>
     <td>Bolas normales: 5; Número máximo en las bolas normales: 54;
         <br>Bolas extra: 1; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 10</td>
     <td>1 entre 31.625.100</td>
   </tr>
   <tr>
-    <td>Spain Bonoloto</td>
+    <td>España Bonoloto</td>
     <td>Bolas normales: 6; Número máximo en las bolas normales: 49;
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 13.983.816</td>
   </tr>
   <tr>
-    <td>Spain Christmas Lottery</td>
+    <td>España Lotería de Navidad</td>
     <td>Bolas normales: 1; Número máximo en las bolas normales: 100,000;
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 100.000</td>
@@ -122,7 +122,7 @@ Resultados de las pruebas propuestas para LottOdds con diferentes configuracione
     <td>1 entre 622.614.630</td>
   </tr>
   <tr>
-    <td>Japan Takarakuji Loto 7</td>
+    <td>Japón Takarakuji Loto 7</td>
     <td>Bolas normales: 7; Número máximo en las bolas normales: 37;
         <br>Bolas extra: 0; &emsp;&nbsp;&nbsp; Número máximo en las bolas extra: 0</td>
     <td>1 entre 10.295.472</td>
@@ -131,8 +131,8 @@ Resultados de las pruebas propuestas para LottOdds con diferentes configuracione
 
 <br/>
 
-> "At that point I ought to have gone away, but a strange sensation rose up in me, a sort of defiance of fate, a desire to challenge it, to put out my tongue at it. I laid down the largest stake allowed – four thousand gulden – and lost it. Then, getting hot, I pulled out all I had left, staked it on the same number, and lost again, after which I walked away from the table as though I were stunned. I could not even grasp what had happened to me"
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ― Fyodor M. Dostoevsky, The Gambler 
+> "Debiera haberme retirado entonces, pero en mí surgió una extraña sensación, una especie de reto a la suerte, un afán de mojarle la oreja, de sacarle la lengua. Apunté con la puesta más grande permitida, cuatro mil florines, y perdí. Luego, enardecido, saqué todo lo que me quedaba, lo apunté al mismo número y volví a perder. Me aparté de la mesa como atontado. Ni siquiera entendía lo que me había pasado"
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ― Fyodor M. Dostoevsky, El jugador
 
 <br/>
 
