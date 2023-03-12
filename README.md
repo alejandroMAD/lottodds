@@ -160,7 +160,7 @@ Credits
 
 License
 --------
-    Copyright (C) 2022  Alejandro M. González
+    Copyright (C) 2023  Alejandro M. González
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
